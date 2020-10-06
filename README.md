@@ -46,7 +46,7 @@ Segment users based on their consumer profiles using RFM and produced dashboard 
 ### Figures
 
 #### Figure 2.
-<img src="images/Screenshot_429.png?raw=true" width="40%" height="50%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Screenshot_430.png?raw=true" width="40%" height="50%"/>
+<img src="images/Screenshot_428.png?raw=true" width="40%" height="50%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Screenshot_429.png?raw=true" width="40%" height="50%"/>
 
 #### Figure 3.
 <img src="images/Screenshot_431.png?raw=true" width="55%" height="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Screenshot_432.png?raw=true" width="25%" height="25%"/>
