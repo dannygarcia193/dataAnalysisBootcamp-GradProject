@@ -25,7 +25,7 @@ Per the projects description: "For the next two weeks, you'll be a junior analys
     |   |-- ------->REMOVED TO SHORTEN Contains images of charts and dashboard to to show on README<---------
     
     
-## ----------------------------------Main Project -----------------------------------------
+## --------------------------------Main Project ---------------------------------------
 ## <a href="https://public.tableau.com/views/graduationProject/ProductDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link">Link</a> to dashboard solution.
 
 # 1. Introduction
