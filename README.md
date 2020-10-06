@@ -31,7 +31,7 @@ Per the projects description: "For the next two weeks, you'll be a junior analys
 # 1. Introduction
 
 ## 1.1 Business Goal
-Identify and form segments of customers based on similar purchasing characteristics (from transcational data) to inform the sales and marketing strategy of the company. Hypothetically speaking, the company is interested in profiles for customers located in the U.K. where the majority of their customers are located in. In terms of currency, the company hypothetically requested that it be in U.S. dollar rather than in pounds. Lastly, the company also requested that the analysis to be based on one year (here defined as year from the last day of transaction recorded in the dataset).
+Identify and form segments of customers based on similar purchasing characteristics (from transactional data) to inform the sales and marketing strategy of the company. Hypothetically speaking, the company is interested in profiles for customers located in the U.K. where the majority of their customers are located in. In terms of currency, the company hypothetically requested that it be in U.S. dollar rather than in pounds. Lastly, the company also requested that the analysis to be based on one year (here defined as year from the last day of transaction recorded in the dataset).
 
 ## 1.2 Method Overview
 
