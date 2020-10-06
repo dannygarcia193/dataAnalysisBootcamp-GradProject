@@ -43,24 +43,27 @@ Segment users based on their consumer profiles using RFM and produced dashboard 
 5. Used RFM model to segment customers. 
 6. Exported relevant data from analysis and created a Tableau dashboard as a deliverable for hypothetical stakeholder.
 
-### Figures
+# Figures
 
-#### Dashboard
+### Dashboard
 <img src="images/Screenshot_455.png?raw=true" width="40%" height="50%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Screenshot_456.png?raw=true" width="40%" height="50%"/>
 
-#### EDA 
+
+## EDA 
 <img src="images/Screenshot_431.png?raw=true" width="55%" height="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Screenshot_432.png?raw=true" width="25%" height="25%"/>
 
 <img src="images/Screenshot_433.png?raw=true" width="60%" height="40%"/>
 
 <img src="images/Screenshot_434.png?raw=true" width="60%" height="40%"/>
 
-#### RFM Segments' Mean Values 
+
+## RFM Segments' Mean Values 
 
 <img src="images/Screenshot_436.png?raw=true" width="40%" height="50%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Screenshot_437.png?raw=true" width="40%" height="50%"/>
 
 <img src="images/Screenshot_438.png?raw=true" width="40%" height="50%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Screenshot_440.png?raw=true" width="40%" height="50%"/>
 
-#### RFM Segments Relative Revenue Share
+
+## RFM Segments Relative Revenue Share
 <img src="images/Screenshot_439.png?raw=true" width="30%" height="55%"/>
 
