@@ -26,7 +26,7 @@ Per the projects description: "For the next two weeks, you'll be a junior analys
     
     
 ## ----------------------------------Main Project -----------------------------------------
-## <a href="https://public.tableau.com/profile/daniel.garcia.rodriguez#!/vizhome/graduationProject/RFMDashboard">Link</a> to dashboard solution.
+## <a href="https://public.tableau.com/views/graduationProject/ProductDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link">Link</a> to dashboard solution.
 
 # 1. Introduction
 
